@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "sequence": 1,
+  "channel": "invitation-beta",
+  "addonId": "zotero-research-assistant@viksav.github.io",
+  "publishedAt": "2026-08-02T19:16:42Z",
+  "release": {
+    "version": "0.15.10",
+    "tag": "v0.15.10-beta.1",
+    "status": "available",
+    "zotero": {
+      "strictMinVersion": "9.0",
+      "strictMaxVersion": "9.0.*"
+    }
+  }
+}
